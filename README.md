@@ -4,7 +4,7 @@ A trash detector that uses image recognition to detect objects that resemble pla
 
 ## What we were trying to demonstrate
 - How you can use simple algorithms to compare images and classifiy them
-- How AI could play a leading role
+- How AI could play a leading role in solutions to global problems (such as waste management)
 
 ## The level of knowledge we had while developing this project
 - How MSE is used to determine the variance of two functions
