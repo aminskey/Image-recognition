@@ -1,12 +1,15 @@
-# Image‑recognition
+# Image-recognition (Skraldprojekt for NEXT CUP, 2nd year of _Gymnasium_)
 
-A lightweight Python toolkit for object detection, image comparison, and vision-based experiments.
+A trash detector that uses image recognition to detect objects that resemble plastic
 
-## 🚀 Why Use This?
+## What we were trying to demonstrate
+- How you can use simple algorithms to compare images and classifiy them
+- How AI could play a leading role
 
-- Simple, ready-to-run scripts for common vision tasks (object detection, image similarity)  
-- Minimal dependencies and easy to extend  
-- Great starting point for prototyping computer vision ideas  
+## The level of knowledge we had while developing this project
+- How MSE is used to determine the variance of two functions
+- How we could create a mathematical model that could be trained on image data
+- How much of training a model like this actually requires
 
 ## 🔍 What’s Inside
 
